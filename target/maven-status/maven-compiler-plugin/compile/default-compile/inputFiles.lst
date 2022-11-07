@@ -1,0 +1,15 @@
+/Users/chirag.bhakar/IdeaProjects/Chase/src/main/java/restAssured/DeleteService.java
+/Users/chirag.bhakar/IdeaProjects/Chase/src/main/java/utils/httpUtils.java
+/Users/chirag.bhakar/IdeaProjects/Chase/src/main/java/restAssured/GetService.java
+/Users/chirag.bhakar/IdeaProjects/Chase/src/main/java/restAssured/PostService.java
+/Users/chirag.bhakar/IdeaProjects/Chase/src/main/java/restAssured/PutService.java
+/Users/chirag.bhakar/IdeaProjects/Chase/src/main/java/model/GetUserResponse.java
+/Users/chirag.bhakar/IdeaProjects/Chase/src/main/java/model/Address.java
+/Users/chirag.bhakar/IdeaProjects/Chase/src/main/java/model/CreateComment.java
+/Users/chirag.bhakar/IdeaProjects/Chase/src/main/java/model/Geo.java
+/Users/chirag.bhakar/IdeaProjects/Chase/src/main/java/model/GetPostResponse.java
+/Users/chirag.bhakar/IdeaProjects/Chase/src/main/java/model/GetPostsResponse.java
+/Users/chirag.bhakar/IdeaProjects/Chase/src/main/java/restAssured/BaseService.java
+/Users/chirag.bhakar/IdeaProjects/Chase/src/main/java/model/CreatePostRequest.java
+/Users/chirag.bhakar/IdeaProjects/Chase/src/main/java/model/Company.java
+/Users/chirag.bhakar/IdeaProjects/Chase/src/main/java/model/GetCommentResponse.java

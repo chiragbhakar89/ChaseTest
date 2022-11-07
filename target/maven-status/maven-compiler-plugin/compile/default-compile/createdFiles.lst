@@ -1,0 +1,15 @@
+model/GetUserResponse.class
+utils/httpUtils.class
+restAssured/PutService.class
+restAssured/DeleteService.class
+model/Geo.class
+model/GetPostResponse.class
+model/Address.class
+model/CreatePostRequest.class
+model/Company.class
+restAssured/GetService.class
+restAssured/BaseService.class
+model/CreateComment.class
+restAssured/PostService.class
+model/GetPostsResponse.class
+model/GetCommentResponse.class
